@@ -1,0 +1,11 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/WEC/BitTorrent/Tracker/Client.pm
+lib/WEC/BitTorrent/Tracker/Connection.pm
+lib/WEC/BitTorrent/Tracker/Connection/Client.pm
+lib/WEC/BitTorrent/Tracker/Connection/Server.pm
+lib/WEC/BitTorrent/Tracker/Constants.pm
+lib/WEC/BitTorrent/Tracker/Server.pm
+t/WEC-BitTorrent-Tracker.t
