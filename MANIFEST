@@ -9,3 +9,4 @@ lib/WEC/BitTorrent/Tracker/Connection/Server.pm
 lib/WEC/BitTorrent/Tracker/Constants.pm
 lib/WEC/BitTorrent/Tracker/Server.pm
 t/WEC-BitTorrent-Tracker.t
+md5-versions

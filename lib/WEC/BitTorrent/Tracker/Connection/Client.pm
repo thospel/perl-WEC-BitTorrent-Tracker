@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use Carp;
 
-our $VERSION = '0.01';
+our $VERSION = '1.000';
 
 use base qw(WEC::BitTorrent::Tracker::Connection);
 

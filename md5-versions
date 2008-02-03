@@ -1,0 +1,27 @@
+# Generated on 2008-02-03 22:38:40 UT using /usr/local/bin/release_pm
+BEGIN
+DIGITS 3
+RELEASE 1.000
+VERSION 9598074a1d830647d288271a32e4b996 1.000 Changes
+VERSION 3ac21dee46a3af67b5dbd14e6c77c974 1.000 MANIFEST
+VERSION c6c62d58c3966d4c30c5755009dc9eb3 1.000 Makefile.PL
+VERSION 8537d9edeb77359eb262637b48335641 1.000 README
+VERSION 719223c6d06c91dae4b839bafdd4db1c 1.000 lib/WEC/BitTorrent/Tracker/Client.pm
+VERSION a336d9977fceb440c6febe6c4ea39ede 1.000 lib/WEC/BitTorrent/Tracker/Connection.pm
+VERSION f6a25d2f214c66f7a52d77d53b69e036 1.000 lib/WEC/BitTorrent/Tracker/Connection/Client.pm
+VERSION 1e0bdbc9d82adcb17fa6930afa474739 1.000 lib/WEC/BitTorrent/Tracker/Connection/Server.pm
+VERSION 68d1b9976eabec025b79232fcebb059e 1.000 lib/WEC/BitTorrent/Tracker/Constants.pm
+VERSION 4fd52dc92fb11291704b03c8aebc475a 1.000 lib/WEC/BitTorrent/Tracker/Server.pm
+VERSION 06cb8e94a83bb2f29a11dc15467fa552 1.000 t/WEC-BitTorrent-Tracker.t
+RELEASED 1.000 1.000 Changes
+RELEASED 1.000 1.000 MANIFEST
+RELEASED 1.000 1.000 Makefile.PL
+RELEASED 1.000 1.000 README
+RELEASED 1.000 1.000 lib/WEC/BitTorrent/Tracker/Client.pm
+RELEASED 1.000 1.000 lib/WEC/BitTorrent/Tracker/Connection.pm
+RELEASED 1.000 1.000 lib/WEC/BitTorrent/Tracker/Connection/Client.pm
+RELEASED 1.000 1.000 lib/WEC/BitTorrent/Tracker/Connection/Server.pm
+RELEASED 1.000 1.000 lib/WEC/BitTorrent/Tracker/Constants.pm
+RELEASED 1.000 1.000 lib/WEC/BitTorrent/Tracker/Server.pm
+RELEASED 1.000 1.000 t/WEC-BitTorrent-Tracker.t
+END
