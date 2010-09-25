@@ -1,12 +1,12 @@
-# Generated on 2010-09-24 12:49:04 UT using /usr/local/bin/release_pm
+# Generated on 2010-09-25 12:55:45 UT using /usr/local/bin/release_pm
 BEGIN
 SEMANTICS	1.010
 DIGITS		3
 RELEASE		1.000
-DATE		2010-09-24 12:49:04
-VERSION	92bd015743603f755d71f49f3f3b0da5 1.000 Changes
+DATE		2010-09-25 12:55:45
+VERSION	30142c4de9648099549a1ad525e65160 1.000 Changes
 VERSION	3ac21dee46a3af67b5dbd14e6c77c974 1.000 MANIFEST
-VERSION	5aa5deadb7271e630edd399f6855c7ca 1.000 Makefile.PL
+VERSION	c01f145b73b4c5a34f97254cff05236c 1.000 Makefile.PL
 VERSION	2b5e059c6e6bc9c19c4c235b16dbc907 1.000 README
 VERSION	719223c6d06c91dae4b839bafdd4db1c 1.000 lib/WEC/BitTorrent/Tracker/Client.pm
 VERSION	a336d9977fceb440c6febe6c4ea39ede 1.000 lib/WEC/BitTorrent/Tracker/Connection.pm
@@ -14,7 +14,7 @@ VERSION	f6a25d2f214c66f7a52d77d53b69e036 1.000 lib/WEC/BitTorrent/Tracker/Connec
 VERSION	1e0bdbc9d82adcb17fa6930afa474739 1.000 lib/WEC/BitTorrent/Tracker/Connection/Server.pm
 VERSION	4d932be08512c3e4889f92a26e35121b 1.000 lib/WEC/BitTorrent/Tracker/Constants.pm
 VERSION	4fd52dc92fb11291704b03c8aebc475a 1.000 lib/WEC/BitTorrent/Tracker/Server.pm
-VERSION	dde0443aea50e47685cb52ab80b68417 1.000 t/WEC-BitTorrent-Tracker.t
+VERSION	9e280dd359bce815bf5dbec0727dabde 1.000 t/WEC-BitTorrent-Tracker.t
 RELEASED 1.000 1.000 Changes
 RELEASED 1.000 1.000 MANIFEST
 RELEASED 1.000 1.000 Makefile.PL
