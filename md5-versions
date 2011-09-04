@@ -1,13 +1,13 @@
-# Generated on 2011-01-14 12:51:09 UT using /usr/local/bin/release_pm
+# Generated on 2011-09-04 12:37:43 UT using /usr/local/bin/release_pm
 BEGIN
 SEMANTICS	1.012
 DIGITS		3
 RELEASE		1.000
-DATE		2011-01-14 12:51:09
+DATE		2011-09-04 12:37:43
 VCS_CHECK	1
-VERSION	eb4f060c39a465d2611072f06afcab6f 1.000 Changes
+VERSION	b41b5f7917193a81345ace7e326195ed 1.000 Changes
 VERSION	3ac21dee46a3af67b5dbd14e6c77c974 1.000 MANIFEST
-VERSION	4c33393e5dededf9c2b8a22cae24c6e9 1.000 Makefile.PL
+VERSION	c99328ed9685045dcdb7e5593f4dd91d 1.000 Makefile.PL
 VERSION	2b5e059c6e6bc9c19c4c235b16dbc907 1.000 README
 VERSION	719223c6d06c91dae4b839bafdd4db1c 1.000 lib/WEC/BitTorrent/Tracker/Client.pm
 VERSION	a336d9977fceb440c6febe6c4ea39ede 1.000 lib/WEC/BitTorrent/Tracker/Connection.pm

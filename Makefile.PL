@@ -8,10 +8,13 @@ $VERSION = "1.000";
 WriteMakefile
     (NAME	=> 'WEC::BitTorrent::Tracker',
      VERSION	=> '0.01',
+     BUILD_REQUIRES	=> {
+	 # Only for the tests
+	 "Test::More"	=> "0.01",
+     },
      PREREQ_PM	=> {
 	 WEC::HTTP::Client	=> 0.01,
 	 WEC::HTTP::Server	=> 0.01,
-	 "Test::More"	=> 0.11, # For the tests only
      },
      AUTHOR         => 'Ton Hospel <ton@home.lunix>',
      $^O eq "MSWin32" ? (
